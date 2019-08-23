@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/leonardoscapinello/gostack-desafio-01.svg?branch=master)](https://travis-ci.org/leonardoscapinello/gostack-desafio-01)
+
 # Desafio 01. Conceitos do NodeJS
 
 Crie uma aplicação do zero utilizando Express.
